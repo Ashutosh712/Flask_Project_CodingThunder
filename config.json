@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server" : "True",
+    "local_url" : "mysql+mysqlconnector://root:@localhost/codingthunder",
+    "prod_url" : "mysql+mysqlconnector://root:@localhost/codingthunder",
+    "facebook_url": "https://www.facebook.com/codingthunder",
+    "twitter_url": "https://www.twitter.com/codingthunder",
+    "github_url":"https://www.github.com/codingthunder",
+    "blog_name" : "Coder Blog",
+    "tag_line": "A Programmer Blog by Coder",
+    "gmail-user": "@gmail.com",
+    "gmail-password": "password",
+    "no_of_post" : 2,
+    "login_image": "login_image.jpg",
+    "Admin_username" : "Malik712",
+    "Admin_password" : "Coding712",
+    "about": "This is python programming based information blog",
+    "upload_location": "C:\\Users\\hi16h\\PycharmProjects\\FlaskProject\\static\\"
+  }
+
+}
